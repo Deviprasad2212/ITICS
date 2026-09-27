@@ -64,13 +64,3 @@ Then visit **[http://localhost:8000](http://localhost:8000)**.
    - `industrial-zones.json`: 15 verified Indian industrial complexes with accurate coordinates, operational radii, and operators (SAIL, Tata Steel, Reliance, IOCL, NTPC, JSPL, AM/NS).
 
 ---
-
-## 🎯 How to Pitch This to Judges
-
-1. **Start on the Dashboard**: Point out the live telemetry banner ("LIVE", "Last synced: X min ago") and the 4 metrics cards. Highlight that the core problem is filtering industrial fires and persistent thermal anomalies out of thousands of daily FIRMS wildfire alerts.
-2. **Click on an Industrial Alert Card**: Watch the UI smoothly switch to the **Live Map**, zoom directly to the plant (e.g., Tata Steel Jamshedpur or Reliance Jamnagar), and open the **Hotspot Details** drawer.
-3. **Walk through the Telemetry**: Show the judges the 3 pillars of your solution:
-   - **FRP & Brightness Temp**: High thermal output typical of industrial furnaces/flares.
-   - **OSM Cross-Check**: Proximity in meters to verified industrial boundaries.
-   - **Thermal Persistence**: Detected across multiple consecutive satellite passes (indicating stationary heavy infrastructure rather than moving wildfire fronts).
-4. **Switch to System Pipeline**: Conclude by showing the 4-step architecture diagram, demonstrating that your data schema in `mock-hotspots.json` is 100% plug-and-play ready for when your live backend ML engine is connected.
