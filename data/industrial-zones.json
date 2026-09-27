@@ -1,0 +1,167 @@
+[
+  {
+    "id": "IZ-01",
+    "name": "Tata Steel Works",
+    "type": "steel_plant",
+    "lat": 22.78,
+    "lng": 86.2,
+    "radius_m": 5000,
+    "operator": "Tata Steel",
+    "city": "Jamshedpur",
+    "state": "Jharkhand"
+  },
+  {
+    "id": "IZ-02",
+    "name": "Bhilai Steel Plant",
+    "type": "steel_plant",
+    "lat": 21.21,
+    "lng": 81.38,
+    "radius_m": 6000,
+    "operator": "SAIL",
+    "city": "Bhilai",
+    "state": "Chhattisgarh"
+  },
+  {
+    "id": "IZ-03",
+    "name": "Vizag Steel Plant",
+    "type": "steel_plant",
+    "lat": 17.63,
+    "lng": 83.17,
+    "radius_m": 4500,
+    "operator": "RINL",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "IZ-04",
+    "name": "IISCO Steel Plant",
+    "type": "steel_plant",
+    "lat": 23.87,
+    "lng": 86.97,
+    "radius_m": 4000,
+    "operator": "SAIL",
+    "city": "Burnpur",
+    "state": "West Bengal"
+  },
+  {
+    "id": "IZ-05",
+    "name": "Rourkela Steel Plant",
+    "type": "steel_plant",
+    "lat": 22.22,
+    "lng": 84.86,
+    "radius_m": 5500,
+    "operator": "SAIL",
+    "city": "Rourkela",
+    "state": "Odisha"
+  },
+  {
+    "id": "IZ-06",
+    "name": "Bokaro Steel City",
+    "type": "steel_plant",
+    "lat": 23.67,
+    "lng": 86.15,
+    "radius_m": 7000,
+    "operator": "SAIL",
+    "city": "Bokaro",
+    "state": "Jharkhand"
+  },
+  {
+    "id": "IZ-07",
+    "name": "Jindal Steel",
+    "type": "steel_plant",
+    "lat": 20.84,
+    "lng": 85.1,
+    "radius_m": 3500,
+    "operator": "JSPL",
+    "city": "Angul",
+    "state": "Odisha"
+  },
+  {
+    "id": "IZ-08",
+    "name": "NTPC Korba",
+    "type": "thermal_power",
+    "lat": 22.35,
+    "lng": 82.68,
+    "radius_m": 4000,
+    "operator": "NTPC",
+    "city": "Korba",
+    "state": "Chhattisgarh"
+  },
+  {
+    "id": "IZ-09",
+    "name": "Haldia Petrochemicals",
+    "type": "petrochemical",
+    "lat": 22.06,
+    "lng": 88.06,
+    "radius_m": 3000,
+    "operator": "HPL",
+    "city": "Haldia",
+    "state": "West Bengal"
+  },
+  {
+    "id": "IZ-10",
+    "name": "Paradip Refinery",
+    "type": "refinery",
+    "lat": 20.27,
+    "lng": 86.67,
+    "radius_m": 4500,
+    "operator": "IOCL",
+    "city": "Paradip",
+    "state": "Odisha"
+  },
+  {
+    "id": "IZ-11",
+    "name": "Durgapur Steel Plant",
+    "type": "steel_plant",
+    "lat": 23.55,
+    "lng": 87.32,
+    "radius_m": 5000,
+    "operator": "SAIL",
+    "city": "Durgapur",
+    "state": "West Bengal"
+  },
+  {
+    "id": "IZ-12",
+    "name": "Adani Power Mundra",
+    "type": "thermal_power",
+    "lat": 22.84,
+    "lng": 69.73,
+    "radius_m": 4000,
+    "operator": "Adani Power",
+    "city": "Mundra",
+    "state": "Gujarat"
+  },
+  {
+    "id": "IZ-13",
+    "name": "Jamnagar Refinery",
+    "type": "refinery",
+    "lat": 22.34,
+    "lng": 69.87,
+    "radius_m": 8000,
+    "operator": "Reliance",
+    "city": "Jamnagar",
+    "state": "Gujarat"
+  },
+  {
+    "id": "IZ-14",
+    "name": "Essar Steel Hazira",
+    "type": "steel_plant",
+    "lat": 21.11,
+    "lng": 72.63,
+    "radius_m": 4500,
+    "operator": "AM/NS India",
+    "city": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "id": "IZ-15",
+    "name": "HPCL Visakh Refinery",
+    "type": "refinery",
+    "lat": 17.69,
+    "lng": 83.27,
+    "radius_m": 3500,
+    "operator": "HPCL",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh"
+  }
+]
