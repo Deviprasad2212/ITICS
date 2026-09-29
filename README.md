@@ -64,3 +64,4 @@ Then visit **[http://localhost:8000](http://localhost:8000)**.
    - `industrial-zones.json`: 15 verified Indian industrial complexes with accurate coordinates, operational radii, and operators (SAIL, Tata Steel, Reliance, IOCL, NTPC, JSPL, AM/NS).
 
 ---
+-----
